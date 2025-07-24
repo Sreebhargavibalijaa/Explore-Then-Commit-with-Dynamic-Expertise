@@ -1,0 +1,7 @@
+experiment,metric,value,p_value,description
+Longitudinal Analysis,10x Depth Threshold,inf,5.4602552515634076e-30,"Odds ratio for transformative papers above 3,000hr threshold"
+Researcher Simulation,Serendipity Multiplier,inf,0.0,Ratio of breakthrough rates (low vs high percentile)
+Anti-Competition Effect,Competition Beta,-0.3226476915272901,0.0940967831780585,Exponential decay coefficient per 100 papers
+Degeneracy Test,F1-Score,1.0,8.54350022878336e-20,F1-score for fertile problem identification
+Impact Option Pricing,Mean Option Value,0.003945051933895302,,Average option value across research projects
+Attention Decay,Mean Commitment Score,8.520022257302013,,Average commitment score across trajectories

@@ -1,0 +1,566 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.7.10)  23 JUL 2025 07:46
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**final-paper.tex
+(./final-paper.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-06-30>
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(./aaai2026.sty
+Package: aaai2026 2026/06/17 AAAI 2026 Submission format
+
+Conference Style for AAAI for LaTeX 2e -- version for submission
+\titlebox=\skip51
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+)
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip52
+\bibsep=\skip53
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count283
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen151
+\captionmargin=\dimen152
+\caption@leftmargin=\dimen153
+\caption@rightmargin=\dimen154
+\caption@width=\dimen155
+\caption@indent=\dimen156
+\caption@parindent=\dimen157
+\caption@hangindent=\dimen158
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count284
+\c@continuedfloat=\count285
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen159
+\lightrulewidth=\dimen160
+\cmidrulewidth=\dimen161
+\belowrulesep=\dimen162
+\belowbottomsep=\dimen163
+\aboverulesep=\dimen164
+\abovetopsep=\dimen165
+\cmidrulesep=\dimen166
+\cmidrulekern=\dimen167
+\defaultaddspace=\dimen168
+\@cmidla=\count286
+\@cmidlb=\count287
+\@aboverulesep=\dimen169
+\@belowrulesep=\dimen170
+\@thisruleclass=\count288
+\@lastruleclass=\count289
+\@thisrulewidth=\dimen171
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2025/06/16 v2.17y AMS math features
+\@mathmargin=\skip54
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen172
+))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen173
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count290
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count291
+\leftroot@=\count292
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count293
+\DOTSCASE@=\count294
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen174
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count295
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count296
+\dotsspace@=\muskip18
+\c@parentequation=\count297
+\dspbrk@lvl=\count298
+\tag@help=\toks19
+\row@=\count299
+\column@=\count300
+\maxfields@=\count301
+\andhelp@=\toks20
+\eqnshift@=\dimen175
+\alignsep@=\dimen176
+\tagshift@=\dimen177
+\tagwidth@=\dimen178
+\totwidth@=\dimen179
+\lineht@=\dimen180
+\@envbody=\toks21
+\multlinegap=\skip55
+\multlinetaggap=\skip56
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2949.
+LaTeX Info: Redefining \] on input line 2950.
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
+\thm@preskip=\skip57
+\thm@postskip=\skip58
+\thm@headsep=\skip59
+\dth@everypar=\toks28
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 4
+1.
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.d
+ef
+File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count302
+) (./final-paper.aux
+
+! Package natbib Error: Bibliography not compatible with author-year citations.
+
+(natbib)                Press <return> to continue in numerical citation style.
+
+
+See the natbib package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...mand\NAT@force@numbers{}\NAT@force@numbers
+                                                  
+? 
+)
+\openout1 = `final-paper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+ (/usr/local/texlive/2025basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count303
+\scratchdimen=\dimen181
+\scratchbox=\box55
+\nofMPsegments=\count304
+\nofMParguments=\count305
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count306
+\MPscratchDim=\dimen182
+\MPnumerator=\count307
+\makeMPintoPDFobject=\count308
+\everyMPtoPDFconversion=\toks30
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.s
+ty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+\c@eqfn=\count309
+\titlearea=\box56
+\actualheight=\skip60
+
+Underfull \hbox (badness 1142) in paragraph at lines 50--51
+\OT1/ptm/m/n/9 an ac-tive ex-per-tise syn-the-sis en-gine. DEA achieves un-
+ []
+
+
+
+
+
+[1{/usr/local/texlive/2025basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/
+usr/local/texlive/2025basic/texmf-dist/fonts/enc/dvips/base/8r.enc}
+
+
+
+]
+Underfull \hbox (badness 1014) in paragraph at lines 79--80
+\OT1/ptm/m/n/10 edge dif-fu-sion and iden-ti-fied in-flu-en-tial pa-pers and re
+-
+ []
+
+
+Underfull \hbox (badness 2150) in paragraph at lines 97--98
+\OT1/ptm/m/n/10 time hori-zons, high un-cer-tainty, and the po-ten-tial for
+ []
+
+
+
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
+05.
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Underfull \hbox (badness 1546) in paragraph at lines 105--106
+[]\OT1/ptm/b/n/10 Arms\OT1/ptm/m/n/10 : Re-search di-rec-tions (e.g., neu-ral a
+r-chi-tec-ture
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 106--107
+[]\OT1/ptm/b/n/10 Rewards\OT1/ptm/m/n/10 : Sci-en-tific break-throughs and in-c
+re-men-tal
+ []
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 110
+.
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 110
+.
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 1546) in paragraph at lines 138--139
+[]\OT1/ptm/b/n/10 Initial Dif-fi-culty\OT1/ptm/m/n/10 : The base-line dif-fi-cu
+lty of mak-ing
+ []
+
+
+Underfull \hbox (badness 3118) in paragraph at lines 144--145
+[]\OT1/ptm/b/n/10 Serendipity Fac-tor\OT1/ptm/m/n/10 : The prob-a-bil-ity of un
+-ex-pected
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+\OT1/ptm/m/n/10 break-throughs due to chance dis-cov-er-ies or cross-
+ []
+
+
+
+[2]
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+[]\OT1/ptm/b/n/10 Serendipity Am-pli-fi-ca-tion\OT1/ptm/m/n/10 : DEA ac-tively 
+cre-ates
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 211--212
+\OT1/ptm/m/n/10 ex-plored ar-eas. This leads to break-through dis-cov-er-ies
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 215--216
+[]\OT1/ptm/b/n/10 Quantum-Inspired Knowl-edge Su-per-po-si-tion\OT1/ptm/m/n/10 
+: DEA
+ []
+
+
+
+[3]
+Overfull \hbox (20.58557pt too wide) detected at line 227
+[]
+ []
+
+
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 278--279
+[]\OT1/ptm/b/n/10 Neural Net-work Ar-chi-tec-ture\OT1/ptm/m/n/10 : The neu-ral 
+net-work
+ []
+
+
+Underfull \hbox (badness 1424) in paragraph at lines 297--298
+[]\OT1/ptm/b/n/10 Linear Re-gres-sion with Reg-u-lar-iza-tion\OT1/ptm/m/n/10 : 
+The lin-ear
+ []
+
+
+
+[4]
+Underfull \hbox (badness 2057) in paragraph at lines 316--317
+[]\OT1/ptm/b/n/10 Hypothesis Test-ing\OT1/ptm/m/n/10 : For com-par-ing strat-eg
+y per-for-
+ []
+
+
+
+
+Overfull \hbox (19.87312pt too wide) detected at line 361
+[]\U/msb/m/n/10 E\OT1/cmr/m/n/10 [(\OML/cmm/m/it/10 y \OMS/cmsy/m/n/10 ^^@ \OML
+/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ))[]] \OMS/c
+msy/m/n/10 ^^T [] \U/msb/m/n/10 E\OT1/cmr/m/n/10 [(\OML/cmm/m/it/10 y \OMS/cmsy
+/m/n/10 ^^@ \OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n
+/10 ))[]] + \OML/cmm/m/it/10 O []
+ []
+
+
+Overfull \hbox (119.23563pt too wide) detected at line 374
+[]\OML/cmm/m/it/10 R\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 s; a\OT1/cmr/m/n/10 ) = [
+] \OML/cmm/m/it/10 ^^M[] []
+ []
+
+
+Underfull \hbox (badness 2173) in paragraph at lines 374--376
+[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 s; a; i\OT1/cmr/m/n/10 )$\OT1/ptm/m/n/10 , 
+and $[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 s; a; i\OT1/cmr/m/n/10 )$ \OT1/ptm/m/n
+/10 rep-re-sent break-
+ []
+
+
+
+[5]
+Overfull \hbox (16.68027pt too wide) detected at line 441
+[][]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 ) = \OMS/cmsy/m/n/10 ^^@
+\OML/cmm/m/it/10 P\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )\OML/cmm/
+m/it/10 A\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 
+^^@ \OML/cmm/m/it/10 A[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )\OM
+L/cmm/m/it/10 P\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 ) + \OML/cmm/
+m/it/10 P\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 B
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 R[]B[]\OT1
+/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 P\OT1/cmr/m/n/
+10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 Q
+
+ []
+
+
+Overfull \hbox (42.93068pt too wide) detected at line 452
+[]\OML/cmm/m/it/10 P[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 breakthrough\OT1/cmr/m/
+n/10 ) = \OML/cmm/m/it/10 P[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 breakthrough\OT1
+/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^A [] []
+ []
+
+
+
+
+
+[6]
+
+
+
+[7]
+Overfull \hbox (143.25365pt too wide) in paragraph at lines 616--632
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1365) in paragraph at lines 635--636
+\OT1/ptm/m/n/10 egy, pro-vid-ing a con-crete, ac-tion-able guide-line for re-
+ []
+
+
+Overfull \hbox (38.10373pt too wide) in paragraph at lines 643--655
+ [][] 
+ []
+
+
+
+
+
+[8]
+
+
+
+[9]
+Underfull \hbox (badness 1014) in paragraph at lines 803--804
+[]\OT1/ptm/b/n/10 Simulation Lim-i-ta-tions\OT1/ptm/m/n/10 : Our cur-rent work 
+re-lies on
+ []
+
+
+Underfull \hbox (badness 1087) in paragraph at lines 815--816
+[]\OT1/ptm/b/n/10 Real-world Val-i-da-tion\OT1/ptm/m/n/10 : Test ETC strat-egy 
+with ac-
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 816--817
+[]\OT1/ptm/b/n/10 Dynamic Adap-ta-tion\OT1/ptm/m/n/10 : De-velop adap-tive ex-p
+lo-ration
+ []
+
+
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 818--819
+[]\OT1/ptm/b/n/10 Domain-specific Op-ti-miza-tion\OT1/ptm/m/n/10 : Tai-lor stra
+te-gies for
+ []
+
+
+
+[10]
+
+
+Underfull \hbox (badness 4899) in paragraph at lines 888--889
+[]\OT1/ptm/m/n/10 Value break-through po-ten-tial along-side pub-li-ca-tion
+ []
+
+
+
+[11]
+
+
+
+[12] (./final-paper.aux)
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-06-30>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 5174 strings out of 469294
+ 81778 string characters out of 5467712
+ 502943 words of memory out of 5000000
+ 33532 multiletter control sequences out of 15000+600000
+ 642731 words of font info for 68 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 57i,16n,65p,631b,283s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmex1
+0.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi10.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi5.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi7.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr10.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr5.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2025basic/texmf-dist/fonts
+/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2025basic/texmf-d
+ist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2025basic/texmf-dist/f
+onts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/
+type1/urw/times/utmri8a.pfb>
+Output written on final-paper.pdf (12 pages, 228294 bytes).
+PDF statistics:
+ 114 PDF objects out of 1000 (max. 8388607)
+ 71 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
