@@ -1,6 +1,6 @@
 # Explore-Then-Commit with Dynamic Expertise Amplification
 
-Revolutionary research strategy framework that optimizes scientific breakthrough discovery through Dynamic Expertise Amplification (DEA). This work introduces paradigm-shifting mechanisms that transcend traditional multi-armed bandit approaches.
+Revolutionary research strategy framework that optimizes scientific breakthrough discovery through Dynamic Expertise Amplification (IDEA). This work introduces paradigm-shifting mechanisms that transcend traditional multi-armed bandit approaches.
 
 ## 🚀 Key Innovations
 
